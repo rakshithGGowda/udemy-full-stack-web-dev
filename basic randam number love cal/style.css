@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  height: 100vh;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: lightpink;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  min-height: 50vh;
+  width: 50%;
+  margin: auto;
+  background-color: lightblue;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  flex-direction: column;
+  transform-style: preserve-3d;
+  /* background-color: lightcoral; */
+  min-height: 80vh;
+  width: 20rem;
+  border-radius: 30px;
+  padding: 0rem 5rem;
+  box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
+}
+.form {
+  /* background-color: lightpink; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* justify-items: center; */
+  align-items: center;
+}
+.firstname {
+  position: absolute;
+  top: 5rem;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+}
+.secondname {
+  position: absolute;
+  top: 10rem;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+}
+
+.submit {
+  padding: 0.5rem 2rem;
+  background: none;
+  border: none;
+  box-shadow: 0px 5px 10px rgb(0, 0, 0, 0.2);
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: bold;
+  color: gray;
+  background-color: lightcyan;
+}
+.result {
+  position: absolute;
+  top: 22rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  font-size: 3rem;
+  color: lightsalmon;
+}
+
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 3rem;
+  color: lightcyan;
+}
