@@ -1,0 +1,7 @@
+2020.11.23 17:58:36 INFO  Started: Metals version 0.9.6 in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\DOM' for client vscode.
+2020.11.23 17:58:37 INFO  time: initialize in 1.33s
+2020.11.23 17:58:39 WARN  Build server is not auto-connectable.
+2020.11.23 17:58:39 WARN  no build tool detected in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\DOM'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Nov 23, 2020 6:02:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.11.23 22:03:37 INFO  shutting down Metals

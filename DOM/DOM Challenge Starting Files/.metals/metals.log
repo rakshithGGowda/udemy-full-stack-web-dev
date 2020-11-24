@@ -1,0 +1,5 @@
+2020.11.23 19:36:05 INFO  Started: Metals version 0.9.6 in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\DOM\DOM Challenge Starting Files' for client vscode.
+2020.11.23 19:36:06 INFO  time: initialize in 1.4s
+2020.11.23 19:36:09 WARN  Build server is not auto-connectable.
+2020.11.23 19:36:09 WARN  no build tool detected in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\DOM\DOM Challenge Starting Files'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.23 22:03:35 INFO  shutting down Metals
