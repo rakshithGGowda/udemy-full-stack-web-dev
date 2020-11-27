@@ -1,0 +1,9 @@
+2020.11.25 16:01:06 INFO  Started: Metals version 0.9.6 in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\JQurey' for client vscode.
+2020.11.25 16:01:07 INFO  time: initialize in 1.54s
+2020.11.25 16:01:10 WARN  Build server is not auto-connectable.
+2020.11.25 16:01:10 WARN  no build tool detected in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\JQurey'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.25 22:17:08 INFO  Started: Metals version 0.9.6 in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\JQurey' for client vscode.
+2020.11.25 22:17:08 INFO  time: initialize in 0.85s
+2020.11.25 22:17:14 WARN  Build server is not auto-connectable.
+2020.11.25 22:17:14 WARN  no build tool detected in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\JQurey'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.25 22:46:07 INFO  shutting down Metals
