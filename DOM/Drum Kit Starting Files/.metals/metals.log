@@ -1,0 +1,10 @@
+2020.11.24 12:27:42 INFO  Started: Metals version 0.9.6 in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\DOM\Drum Kit Starting Files' for client vscode.
+2020.11.24 12:27:43 INFO  time: initialize in 1.22s
+2020.11.24 12:27:46 WARN  Build server is not auto-connectable.
+2020.11.24 12:27:46 WARN  no build tool detected in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\DOM\Drum Kit Starting Files'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.24 23:00:41 INFO  shutting down Metals
+2020.11.25 15:59:07 INFO  Started: Metals version 0.9.6 in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\DOM\Drum Kit Starting Files' for client vscode.
+2020.11.25 15:59:08 INFO  time: initialize in 1.15s
+2020.11.25 15:59:12 WARN  Build server is not auto-connectable.
+2020.11.25 15:59:12 WARN  no build tool detected in workspace 'C:\Users\rakg\Desktop\XT learning\Udemy-full-stack\udemy-full-stack-web-dev\DOM\Drum Kit Starting Files'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.25 16:02:04 INFO  shutting down Metals
