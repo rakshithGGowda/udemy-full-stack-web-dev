@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+body {
+  /* background-color: #dbf6e9; */
+  text-align: center;
+  font-family: "Montserrat  ", serif;
+  color: #40514e;
+}
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  min-height: 100vh;
+  color: black;
+  background-color: #dbf6e9;
+}
+.buttom-cloud {
+  position: absolute;
+}
+.top1-cloud {
+  position: relative;
+  left: 400px;
+}
+/* .top-cloud {
+  margin-bottom: 2vh;
+  left: 60vh;
+  display: block;
+  position: relative;
+} */
+.pro {
+  text-decoration: underline;
+}
+.discription {
+  margin-top: 1.5vh;
+  font-size: 2rem;
+  font-family: "Montserrat", serif;
+  color: #66bfbf;
+  font-weight: bold;
+}
+.mountain {
+  margin-bottom: 0;
+}
+h1 {
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  margin: 50px auto 0 auto;
+  color: #66bfbf;
+  /* line-height: 2; */
+}
+.middle-container {
+  min-height: 100vh;
+  /* background-color: #9ddfd3; */
+  padding-top: 50px;
+}
+h3,
+a {
+  color: #11999e;
+}
+
+.skills {
+  margin-top: 3rem;
+}
+
+.skill-row {
+  height: 50%;
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+}
+p {
+  line-height: 2;
+}
+.img-1 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img-2 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+h2 {
+  font-size: 2.5rem;
+  font-family: "Montserrat", serif;
+  color: #66bfbf;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  justify-content: space-around;
+  padding: 2rem;
+}
+.links {
+  font-family: "Montserrat", serif;
+  font-size: 1rem;
+  padding: 2rem;
+}
+.contact-me {
+  min-height: 40vh;
+  padding: 30px;
+  /* display: flex;
+  flex-direction: column;
+  /* background-color: lightcoral; */
+  /* justify-content: space-between; */
+}
+.contact-me p {
+  width: 30%;
+  margin: auto;
+}
+.profile {
+  padding: 30px;
+}
+.profile h2 {
+  padding-top: 50px;
+}
+.profile p {
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-container p {
+  color: #eaf6f6;
+}
+.links a {
+  padding-left: 30px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.links a:hover {
+  color: whitesmoke;
+}
+
+.contact-btn {
+  position: relative;
+  top: 30px;
+  margin: 2rem;
+  padding: 10px;
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: #11999e;
+  border-radius: 50px;
+  font-family: "Montserrat", serif;
+  font-weight: bold;
+}
+.contact-btn:hover {
+  color: white;
+  background-color: #035457;
+}
